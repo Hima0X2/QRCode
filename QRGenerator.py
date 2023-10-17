@@ -18,4 +18,3 @@ data = input("Enter the data you want in the QR code: ")
 filename = "qr_code.png"
 
 generate_qr_code(data, filename)
-display_qr_code_and_result(filename)
